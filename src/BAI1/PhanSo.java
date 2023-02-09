@@ -1,3 +1,5 @@
+package BAI1;
+
 public class PhanSo {
     private int tuSo;
     private int mauSo;

@@ -1,3 +1,5 @@
+package BAI1;
+
 import java.util.Scanner;
 public class PhanSoTest {
     public static void main(String[] args) {
